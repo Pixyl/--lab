@@ -4,3 +4,6 @@ c:\users\kate\documents\visual studio 2015\Projects\reduction method\reduction m
 c:\users\kate\documents\visual studio 2015\Projects\reduction method\reduction method\obj\Debug\reduction method.csprojResolveAssemblyReference.cache
 c:\users\kate\documents\visual studio 2015\Projects\reduction method\reduction method\obj\Debug\reduction method.exe
 c:\users\kate\documents\visual studio 2015\Projects\reduction method\reduction method\obj\Debug\reduction method.pdb
+C:\Users\Kate\Documents\GitHub\repos\reduction method\reduction method\bin\Debug\reduction method.exe.config
+C:\Users\Kate\Documents\GitHub\repos\reduction method\reduction method\obj\Debug\reduction method.exe
+C:\Users\Kate\Documents\GitHub\repos\reduction method\reduction method\obj\Debug\reduction method.pdb
